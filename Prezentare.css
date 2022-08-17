@@ -212,3 +212,18 @@ i {
 #signin p > a:hover{
 	border-bottom: 1px solid;
 }
+
+
+  /* Calculator credite  */
+ 
+  .abc{
+    color: rgba(98, 48, 148, 0.902);
+    font-style: italic;
+    font-size: 3cm;
+}
+
+/* Pagina about */
+.service{
+    align-content: center;
+    font-style: oblique ;
+}
